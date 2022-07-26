@@ -1,0 +1,15 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: #030303;
+}
+
+#project {
+  background-color: #303232;
+}
+
+.display-4 {
+  text-decoration-color: white;
+}
